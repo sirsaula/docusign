@@ -1,0 +1,28 @@
+{
+  "data" : {
+    "light" : {
+      "id": "T_001",
+      "name": "Light",
+      "colors": {
+        "base": "rgba(0, 0, 0, 0.5)",
+        "text": "#000000",
+        "accent": "#cc0000",
+        "secondary": "rgba(255, 255, 255, 0.2)",
+        "tertiary": "rgba(255, 255, 255, 0.4)"
+      },
+      "font": "Tinos"
+    },
+    "dark" : {
+      "id": "T_002",
+      "name": "Dark",
+      "colors": {
+        "base": "rgba(50, 30, 0, 0.8)",
+        "text": "#ffffff",
+        "accent": "#ff9f0c",
+        "secondary": "rgba(50, 30, 0, 0.6)",
+        "tertiary": "rgba(50, 30, 0, 0.5)"
+      },
+      "font": "Ubuntu"
+    }
+  }
+}
